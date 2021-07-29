@@ -1,9 +1,9 @@
 # Site settings
-title: Thomas Zühlke
-description: 'Business Card Page'
-url: 'http://thomas.zuehlke.family'
+title: Marisssssa's Blog
+description: 'Marisssssa's Blog'
+url: 'https://github.com/Marisssssa/Marisssssa.github.io'
 baseurl: ''
-profilepic: '/images/tzuehlke.jpg'
+profilepic: '/images/cimu.jpg'
 bkimage: '/images/bk1.jpg'
 google_analytics: UA-XXXXXX-X
 font_awesome: 'XXXXXXXXXX.js'
