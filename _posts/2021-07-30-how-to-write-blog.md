@@ -3,11 +3,11 @@ layout: post
 title:  "如何写博客"
 date:   2021-07-30
 excerpt: "不积跬步无以至千里."
-project: true
+project: false
 tag:
 - 随笔 
 - 博客书写
-comments: true
+comments: false
 ---
 
 
@@ -24,7 +24,7 @@ comments: true
 
 ![image-20210730104950000](https://gitee.com/cafory/images-store/raw/master/Image/image-20210730104950000.png)
 
-  # 博客文件的头内容
+# 博客文件的头内容
 
 ![image-20210730105234150](https://gitee.com/cafory/images-store/raw/master/Image/image-20210730105234150.png)
 
@@ -32,13 +32,13 @@ comments: true
 
 解释如下：
 
-> + **layout:** 博客的布局，写为post即可，不需要更改；
-> + **title：**博客的标题；
-> + **date:** 创建博客的日期；
-> + **excerpt:** 摘录，博客的摘要；
-> + **project：**是否标记为project，如不是project，该行可删除；
-> + **tag：**博客标签，可写多个；
-> + **comments：**是否开放评论功能；
++ **layout:** 博客的布局，写为post即可，不需要更改；
++ **title：**博客的标题；
++ **date:** 创建博客的日期；
++ **excerpt:** 摘录，博客的摘要；
++ **project：**是否标记为project，如不是project，该行可删除；
++ **tag：**博客标签，可写多个；
++ **comments：**是否开放评论功能；
 
 
 
