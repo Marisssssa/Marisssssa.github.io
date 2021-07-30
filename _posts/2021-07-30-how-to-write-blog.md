@@ -3,7 +3,6 @@ layout: post
 title:  "如何写博客"
 date:   2021-07-30
 excerpt: "不积跬步无以至千里."
-project: false
 tag:
 - 随笔 
 - 博客书写
