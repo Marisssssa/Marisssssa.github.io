@@ -1,11 +1,11 @@
 # Site
 title:              Marisssssa's Blog
 bio:                '天空如墨，也如焰火。'
-description:        "Moon is a minimal, one column jekyll theme for your blog."
+description:        "Marisssssa苦练茨木，顺道写个布劳鸽。"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/cimu.jpg'
-background:         'assets/img/placeholder-big.jpg'
+background:         'assets/img/bk.jpeg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://marisssssa.github.io/
