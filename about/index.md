@@ -1,37 +1,38 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+title: 关于我
+tags: [about]
+date: 2021-07-30
 comments: false
 ---
-    
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+![dog](https://gitee.com/cafory/images-store/raw/master/Image/dog.jpg)
 
-## Preview
 
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
+## 基本信息
 
-## Getting Started
+**Name：**Marisssssa
 
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+**Motto：**I’m your father，a beautiful one.
+
+![aa](https://gitee.com/cafory/images-store/raw/master/Image/aa.jpg)
+
+## 兴趣爱好
+
+* 吃喝玩乐
+* 学习
+* 决战平安京
+* 追剧
+
+## 以后的打算
+
++ 多发几篇文章帮老师完成宏愿
++ 称霸平安京上单
++ 称霸王者荣耀上单
++ 不定期请大家吃饭
++ 每个月支付**Cafory** 10 RMB
+
+## 想对大家说的话
+
+![shy](https://gitee.com/cafory/images-store/raw/master/Image/shy.jpg)
