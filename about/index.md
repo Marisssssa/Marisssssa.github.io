@@ -12,11 +12,9 @@ comments: false
 
 ## 基本信息
 
-**Name：**Marisssssa
+**Name：**Marissa Lee
 
-**Motto：**I’m your father，a beautiful one.
-
-![aa](https://gitee.com/cafory/images-store/raw/master/Image/aa.jpg)
+**Motto：**Still water runs deep.
 
 ## 兴趣爱好
 
@@ -35,4 +33,4 @@ comments: false
 
 ## 想对大家说的话
 
-![shy](https://gitee.com/cafory/images-store/raw/master/Image/shy.jpg)
+
