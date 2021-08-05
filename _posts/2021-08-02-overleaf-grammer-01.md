@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Overleaf里的基本语法"
+title:  "Overleaf里的基本语法（1）"
 date:   2021-08-01
 excerpt: "熟练使用，论文写的更快."
 tag:
