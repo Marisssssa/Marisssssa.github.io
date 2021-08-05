@@ -1,6 +1,6 @@
 ---
 layout: post-list
-title: ACCUMULATION
+title: Blogs
 excerpt: "A List of Posts"
 comments: false
 ---
