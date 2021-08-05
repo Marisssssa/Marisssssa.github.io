@@ -49,7 +49,8 @@ comments: false
 
 **三线式表格**
 
-`\begin{table*}[!t]
+```latex
+\begin{table*}[!t]
 % increase table row spacing, adjust to taste
 \renewcommand{\arraystretch}{1.3}
 \caption{myTable}%标题
@@ -66,7 +67,8 @@ L4 &- &- &- \\
 L5 &- &- &- \\
 \bottomrule
 \end{tabular}
-\end{table*}`
+\end{table*}
+```
 
 效果图：
 
@@ -74,20 +76,22 @@ L5 &- &- &- \\
 
 **合并单元格**
 
-`\begin{table}`
-`\centering`
-`\caption{myTable.}\label{tab1}`
-`\begin{tabular}{|l|l|l|}`
-`\hline`
-`&\multicolumn{2}{c}{Combine}   \\`
-`\hline`
- `&C1&C2\\`
-`\hline`
-`L1 &- &-\\`
-`L2  &- &- \\`
-`\hline`
-`\end{tabular}`
-`\end{table}`
+```latex
+\begin{table}
+\centering
+\caption{myTable.}\label{tab1}
+\begin{tabular}{|l|l|l|}
+\hline
+&\multicolumn{2}{c}{Combine}   \\
+\hline
+ &C1&C2\\
+\hline
+L1 &- &-\\
+L2  &- &- \\
+\hline
+\end{tabular}
+\end{table}
+```
 
 效果图：
 
@@ -101,14 +105,18 @@ L5 &- &- &- \\
 
 上传自己要用的图片。
 
-![](https://gitee.com/llesssssa/imagebed/raw/master/chatu.png)
+![](https://gitee.com/llesssssa/imagebed/raw/master/cimuselect.jpg)
 
-`\begin{figure}[htp]
+然后插入：
+
+```latex
+\begin{figure}[htp]
 \begin{center}
 \includegraphics[width=1.0\textwidth]{cimu.JPG}
 \caption{Cimu.}\label{fig:total}
 \end{center}
-\end{figure}`
+\end{figure}
+```
 
 插入效果图：
 
