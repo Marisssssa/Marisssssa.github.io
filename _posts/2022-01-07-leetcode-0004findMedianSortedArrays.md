@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Leetcode04.findMedianSortedArrays"
+title:  "Leetcode0004.findMedianSortedArrays"
 date:   2022-01-07
 excerpt: "Leetcode寻找中位数."
 tag:
@@ -9,9 +9,9 @@ tag:
 comments: false
 ---
 
-<center><b>04.findMedianSortedArrays.</b> </center>
+<center><b>0004.findMedianSortedArrays.</b> </center>
 
-# Leetcode题目04.findMedianSortedArrays
+# Leetcode题目0004.findMedianSortedArrays
 
 题目：寻找两个正序数组的中位数
 
@@ -30,6 +30,9 @@ comments: false
 <table>
     <tr><td><img src="https://gitee.com/llesssssa/imagebed/raw/master/master/202201081304741.png" alt="A=0" style="zoom:75%;" />&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp图1</td><td><img src="https://gitee.com/llesssssa/imagebed/raw/master/master/202201081305934.png" alt="B=0" style="zoom:75%;" />&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp图2</td></tr>
 </table>
+时间复杂度：O(log(m+n))
+
+空间复杂度：O(1)
 
 代码：
 

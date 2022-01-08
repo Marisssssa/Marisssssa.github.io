@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Leetcode01.TwoSum"
+title:  "Leetcode0001.TwoSum"
 date:   2022-01-06
 excerpt: "Leetcode两数之和."
 tag:
@@ -13,9 +13,9 @@ comments: false
 
 
 
-<center><b>01.TwoSum.</b> </center>
+<center><b>0001.TwoSum.</b> </center>
 
-# Leetcode题目01.TwoSum
+# Leetcode题目0001.TwoSum
 
 给定一个整数数组 nums 和一个整数目标值 target，请你在该数组中找出 和为目标值 target  的那 两个 整数，并返回它们的数组下标。
 
