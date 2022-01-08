@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Leetcode11.findMedianSortedArrays"
+title:  "Leetcode0011.maxArea"
 date:   2022-01-08
 excerpt: "Leetcode盛最多水的容器."
 tag:
@@ -9,9 +9,9 @@ tag:
 comments: false
 ---
 
-<center><b>11.maxArea.</b> </center>
+<center><b>0011.maxArea.</b> </center>
 
-# Leetcode题目11.maxArea
+# Leetcode题目0011.maxArea
 
 题目：盛最多水的容器
 
