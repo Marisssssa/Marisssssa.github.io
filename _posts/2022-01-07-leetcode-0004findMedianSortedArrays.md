@@ -17,7 +17,7 @@ comments: false
 
 给定两个大小分别为 m 和 n 的正序（从小到大）数组 nums1 和 nums2。请你找出并返回这两个正序数组的 中位数 。
 
-算法的时间复杂度应该为 O(log (m+n)) 。
+算法的时间复杂度应该为$ O(log (m+n)) $。
 
 | ![04eg1](https://gitee.com/llesssssa/imagebed/raw/master/master/04eg1.png) | ![04eg2](https://gitee.com/llesssssa/imagebed/raw/master/master/04eg2.png) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -31,9 +31,9 @@ comments: false
     <tr><td><img src="https://gitee.com/llesssssa/imagebed/raw/master/master/202201081304741.png" alt="A=0" style="zoom:75%;" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;图1</td><td><img src="https://gitee.com/llesssssa/imagebed/raw/master/master/202201081305934.png" alt="B=0" style="zoom:75%;" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;图2</td></tr>
 </table>
 
-时间复杂度：O(log(m+n))
+时间复杂度：$O(log(m+n))$
 
-空间复杂度：O(1)
+空间复杂度：$O(1)$
 
 代码：
 
