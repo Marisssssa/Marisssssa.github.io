@@ -17,6 +17,14 @@ comments: false
 
 # Leetcode题目01.TwoSum
 
+给定一个整数数组 nums 和一个整数目标值 target，请你在该数组中找出 和为目标值 target  的那 两个 整数，并返回它们的数组下标。
+
+你可以假设每种输入只会对应一个答案。但是，数组中同一个元素在答案里不能重复出现。
+
+| ![twosumeg1](https://gitee.com/llesssssa/imagebed/raw/master/master/twosumeg1.png) | ![twosumeg2](https://gitee.com/llesssssa/imagebed/raw/master/master/twosumeg2.png) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ![twosumeg3](https://gitee.com/llesssssa/imagebed/raw/master/master/twosumeg3.png) |                                                              |
+
 #### 1.自己编译测试代码
 
 a.暴力解法（直接循环）：
