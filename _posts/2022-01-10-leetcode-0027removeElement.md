@@ -19,7 +19,9 @@ comments: false
 
 元素的顺序可以改变。你不需要考虑数组中超出新长度后面的元素。
 
-<table><tr><td><img src="https://s2.loli.net/2022/01/10/rzX7mGShdxTsRjc.png" alt="27eg1" style="zoom:120%;" /></td><td><img src="https://s2.loli.net/2022/01/10/W9rFjxVkcpXRSZh.png" alt="27eg2" style="zoom:120%;" /></td></tr></table>
+![27eg1](https://s2.loli.net/2022/01/10/rzX7mGShdxTsRjc.png)
+
+![27eg2](https://s2.loli.net/2022/01/10/W9rFjxVkcpXRSZh.png)
 
 与0026题移除重复元素思想一致。
 

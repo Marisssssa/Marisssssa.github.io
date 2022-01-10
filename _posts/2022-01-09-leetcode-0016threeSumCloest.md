@@ -19,7 +19,7 @@ comments: false
 
 假定每组输入只存在恰好一个解。
 
-<table><tr><td><img src="https://gitee.com/llesssssa/imagebed/raw/master/master/202201091609845.png" alt="16eg1" style="zoom:100%;"/></td><td><img src="C:\Users\Administrator\Desktop\mdimgs\16eg2.png" alt="16eg2" style="zoom:120%;"/></td></tr></table>
+<table><tr><td><img src="https://gitee.com/llesssssa/imagebed/raw/master/master/202201091609845.png" alt="16eg1" style="zoom:100%;"/></td><td><img src="C:\Users\Administrator\Desktop\mdimgs\16eg2.png" alt="16eg2" style="zoom:100%;"/></td></tr></table>
 
 这道题和15题三数之和很类似，思想一致。
 
