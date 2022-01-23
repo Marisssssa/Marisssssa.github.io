@@ -10,3 +10,5 @@ comments: false
 ---
 
 <center><b>0036.isValidSudoku.</b> </center>
+
+# Leetcode题目0036.isValidSudoku
