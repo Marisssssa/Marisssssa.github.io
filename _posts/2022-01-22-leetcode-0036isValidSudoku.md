@@ -30,3 +30,12 @@ comments: false
 
 ![36eg2](https://gitee.com/llesssssa/imagebed/raw/master/master/202201231601398.png)
 
+解法：
+
+利用哈希的思想来判定某行或者某列或者某个3*3的格子里是否有重复值。
+
+时间复杂度：$O(1)$
+
+空间复杂度：$O(1)$
+
+代码：
