@@ -9,3 +9,4 @@ tag:
 comments: false
 ---
 
+<center><b>0036.isValidSudoku.</b> </center>
