@@ -40,71 +40,7 @@ comments: false
 
 代码：
 
-```c++
-#include <iostream>
-#include <string.h>
-#include <vector>
 
-using namespace std;
-
-class Solution {
-public:
-    bool isValidSudoku(vector<vector<char>>& board) {
-        int row[9][9];
-        int col[9][9];
-        int nineBox[3][3][9];
-        char ch;
-        int ch_value;
-        memset(row,0,sizeof(row));
-        memset(col,0,sizeof(col));
-        memset(nineBox,0,sizeof(nineBox));
-        for(int i=0;i<9;i++)
-        {
-            for(int j=0;j<9;j++)
-            {
-                ch=board[i][j];
-                if(ch!='.')
-                {
-                    ch_value=ch-'0'-1;
-                    row[i][ch_value]++;
-                    col[j][ch_value]++;
-                    nineBox[i/3][j/3][ch_value]++;
-                    if(row[i][ch_value]>1||col[j][ch_value]>1||nineBox[i/3][j/3][ch_value]>1)
-                        return false;
-                }
-            }
-        }
-        return true;
-    }
-};
-
-int main()
-{
-    vector<vector<char>> a={{'5','3','.','.','7','.','.','.','.'},
-    {'6','.','.','1','9','5','.','.','.'},
-    {'.','9','8','.','.','.','.','6','.'},
-    {'8','.','.','.','6','.','.','.','3'},
-    {'4','.','.','8','.','3','.','.','1'},
-    {'7','.','.','.','2','.','.','.','6'},
-    {'.','6','.','.','.','.','2','8','.'},
-    {'.','.','.','4','1','9','.','.','5'},
-    {'.','.','.','.','8','.','.','7','9'}};
-    //memset(a,0,sizeof(a));
-    for(int i=0;i<9;i++)
-    {
-        cout<<endl;
-        for(int j=0;j<9;j++)
-        {
-            cout<<a[i][j]<<" ";
-        }
-    }
-    Solution s;
-    bool res;
-    res=s.isValidSudoku(a);
-    cout << res << endl;
-    return 0;
-}
-```
 
 
 
