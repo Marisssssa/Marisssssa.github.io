@@ -1,12 +1,6 @@
 ---
-layout: post
 title:  "Leetcode0001.TwoSum"
-date:   2022-01-06
-excerpt: "Leetcode两数之和."
-tag:
-- leetcode 
-- 算法
-comments: false
+tags: leetcode 算法
 ---
 
 
